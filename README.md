@@ -1,7 +1,7 @@
-# Pet-Emotion-Recognition-using-CNN-and-FSL
+# 🐾 Pet Emotion Recognition using Few-Shot Learning
 A deep learning project 
 
-# 🐾 Pet Emotion Recognition using Few-Shot Learning
+
 
 ### 📌 Overview
 A deep learning project to classify *pet emotions (cats & dogs)* like happy, sad, angry, relaxed from facial images.  
